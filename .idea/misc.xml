@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projetos/Cursos/DIO/ListadeContatos/app/src/main/res/layout/activity_main.xml" value="0.26313405797101447" />
+        <entry key="..\:/Projetos/Cursos/DIO/ListadeContatos/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Projetos/Cursos/DIO/ListadeContatos/app/src/main/res/layout/contact_item.xml" value="0.25" />
+        <entry key="..\:/Projetos/Cursos/DIO/ListadeContatos/app/src/main/res/layout/drawer_menu.xml" value="0.2957427536231884" />
         <entry key="..\:/Projetos/Cursos/DIO/ListadeContatos/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
       </map>
     </option>

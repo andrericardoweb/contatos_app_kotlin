@@ -7,4 +7,7 @@
     <string name="menu_3">Menu 3</string>
     <string name="menu_4">Menu 4</string>
 
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+
 </resources>
